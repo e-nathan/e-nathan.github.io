@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.edot.playground",
+    "sha256_cert_fingerprints":
+    ["F5:74:5B:D9:E4:3E:48:5F:8E:E4:DE:42:78:29:70:56:68:3A:0D:98:F2:CC:9D:AB:51:1F:90:A0:F0:5C:2C:DB"]
+  }
+}]
